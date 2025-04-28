@@ -42,7 +42,7 @@ llm = OllamaLLM(model="mistral")
 qa = RetrievalQA.from_chain_type(llm=llm, retriever=retriever, return_source_documents=True)
 
 # Configuration for web search (SerpAPI in this example)
-SERP_API_KEY = "8cbc43cef244483ba4d75545f8033e0d80f813ce29b8a823c23c5352b7bd6da9"
+SERP_API_KEY = "XXXXX"
 SEARCH_ENGINE_URL = "https://serpapi.com/search"
 
 # Helper
