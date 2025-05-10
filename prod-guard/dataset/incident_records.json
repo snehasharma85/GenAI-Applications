@@ -1,0 +1,502 @@
+[
+  {
+    "jira_id": "JIRA-123",
+    "error_description": "Memory leak detected in development module.",
+    "error_type": "Development",
+    "status": "In Progress",
+    "resolution_comment": "Still being investigated.",
+    "timestamp": "2025-04-16T05:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-124",
+    "error_description": "Database connection timeout issue in qa.",
+    "error_type": "QA",
+    "status": "In Progress",
+    "resolution_comment": "Still being investigated.",
+    "timestamp": "2025-04-04T22:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-125",
+    "error_description": "Null pointer exception during qa deployment.",
+    "error_type": "QA",
+    "status": "In Progress",
+    "resolution_comment": "Still being investigated.",
+    "timestamp": "2025-04-13T23:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-126",
+    "error_description": "Unexpected server restart in qa environment.",
+    "error_type": "QA",
+    "status": "Closed",
+    "resolution_comment": "",
+    "timestamp": "2025-04-14T13:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-127",
+    "error_description": "Unexpected server restart in production environment.",
+    "error_type": "Production",
+    "status": "Closed",
+    "resolution_comment": "",
+    "timestamp": "2025-04-04T09:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-128",
+    "error_description": "Load balancer misconfiguration in staging setup.",
+    "error_type": "Staging",
+    "status": "Closed",
+    "resolution_comment": "",
+    "timestamp": "2025-04-10T12:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-129",
+    "error_description": "Database connection timeout issue in development.",
+    "error_type": "Development",
+    "status": "Open",
+    "resolution_comment": "",
+    "timestamp": "2025-04-18T00:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-130",
+    "error_description": "Null pointer exception during qa deployment.",
+    "error_type": "QA",
+    "status": "Open",
+    "resolution_comment": "",
+    "timestamp": "2025-04-10T05:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-131",
+    "error_description": "Slow response time from staging service.",
+    "error_type": "Staging",
+    "status": "Resolved",
+    "resolution_comment": "Memory management improved to avoid leaks.",
+    "timestamp": "2025-04-22T06:30:00",
+    "rca_doc_url": "https://confluence.example.com/rca/JIRA-131",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-132",
+    "error_description": "Unexpected server restart in staging environment.",
+    "error_type": "Staging",
+    "status": "Closed",
+    "resolution_comment": "",
+    "timestamp": "2025-04-25T03:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-133",
+    "error_description": "Unexpected server restart in development environment.",
+    "error_type": "Development",
+    "status": "Open",
+    "resolution_comment": "",
+    "timestamp": "2025-04-16T02:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-134",
+    "error_description": "Null pointer exception during staging deployment.",
+    "error_type": "Staging",
+    "status": "In Progress",
+    "resolution_comment": "Still being investigated.",
+    "timestamp": "2025-04-08T22:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-135",
+    "error_description": "Database connection timeout issue in production.",
+    "error_type": "Production",
+    "status": "Resolved",
+    "resolution_comment": "Timeout thresholds adjusted for better performance.",
+    "timestamp": "2025-04-17T23:30:00",
+    "rca_doc_url": "https://confluence.example.com/rca/JIRA-135",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-136",
+    "error_description": "Payment gateway failure in production environment.",
+    "error_type": "Production",
+    "status": "Resolved",
+    "resolution_comment": "API credentials were rotated and updated.",
+    "timestamp": "2025-04-13T23:30:00",
+    "rca_doc_url": "https://confluence.example.com/rca/JIRA-136",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-137",
+    "error_description": "Database connection timeout issue in qa.",
+    "error_type": "QA",
+    "status": "Resolved",
+    "resolution_comment": "Issue was resolved by patching the deployment script.",
+    "timestamp": "2025-03-29T17:30:00",
+    "rca_doc_url": "https://confluence.example.com/rca/JIRA-137",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-138",
+    "error_description": "Unexpected server restart in qa environment.",
+    "error_type": "QA",
+    "status": "Resolved",
+    "resolution_comment": "Load balancer settings corrected.",
+    "timestamp": "2025-04-07T20:30:00",
+    "rca_doc_url": "https://confluence.example.com/rca/JIRA-138",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-139",
+    "error_description": "API rate limit exceeded in qa environment.",
+    "error_type": "QA",
+    "status": "Closed",
+    "resolution_comment": "",
+    "timestamp": "2025-03-31T12:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-140",
+    "error_description": "Unexpected server restart in qa environment.",
+    "error_type": "QA",
+    "status": "Open",
+    "resolution_comment": "",
+    "timestamp": "2025-04-19T14:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-141",
+    "error_description": "API rate limit exceeded in qa environment.",
+    "error_type": "QA",
+    "status": "In Progress",
+    "resolution_comment": "Still being investigated.",
+    "timestamp": "2025-04-14T17:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-142",
+    "error_description": "Session expiration issue in staging platform.",
+    "error_type": "Staging",
+    "status": "Closed",
+    "resolution_comment": "",
+    "timestamp": "2025-04-10T17:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-143",
+    "error_description": "Authentication failure in staging module.",
+    "error_type": "Staging",
+    "status": "In Progress",
+    "resolution_comment": "Still being investigated.",
+    "timestamp": "2025-03-29T22:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-144",
+    "error_description": "Load balancer misconfiguration in production setup.",
+    "error_type": "Production",
+    "status": "Resolved",
+    "resolution_comment": "Load balancer settings corrected.",
+    "timestamp": "2025-04-02T06:30:00",
+    "rca_doc_url": "https://confluence.example.com/rca/JIRA-144",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-145",
+    "error_description": "Authentication failure in development module.",
+    "error_type": "Development",
+    "status": "Resolved",
+    "resolution_comment": "Timeout thresholds adjusted for better performance.",
+    "timestamp": "2025-04-07T10:30:00",
+    "rca_doc_url": "https://confluence.example.com/rca/JIRA-145",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-146",
+    "error_description": "Database connection timeout issue in production.",
+    "error_type": "Production",
+    "status": "Resolved",
+    "resolution_comment": "Code fix applied and tested.",
+    "timestamp": "2025-03-30T13:30:00",
+    "rca_doc_url": "https://confluence.example.com/rca/JIRA-146",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-147",
+    "error_description": "Database connection timeout issue in production.",
+    "error_type": "Production",
+    "status": "Closed",
+    "resolution_comment": "",
+    "timestamp": "2025-04-07T18:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-148",
+    "error_description": "Unexpected server restart in qa environment.",
+    "error_type": "QA",
+    "status": "Closed",
+    "resolution_comment": "",
+    "timestamp": "2025-04-04T06:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-149",
+    "error_description": "Unexpected server restart in qa environment.",
+    "error_type": "QA",
+    "status": "Closed",
+    "resolution_comment": "",
+    "timestamp": "2025-04-06T13:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-150",
+    "error_description": "Authentication failure in production module.",
+    "error_type": "Production",
+    "status": "Resolved",
+    "resolution_comment": "Rate limiting algorithm re-tuned.",
+    "timestamp": "2025-03-27T12:30:00",
+    "rca_doc_url": "https://confluence.example.com/rca/JIRA-150",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-151",
+    "error_description": "Null pointer exception during staging deployment.",
+    "error_type": "Staging",
+    "status": "Open",
+    "resolution_comment": "",
+    "timestamp": "2025-04-20T06:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-152",
+    "error_description": "Memory leak detected in staging module.",
+    "error_type": "Staging",
+    "status": "Open",
+    "resolution_comment": "",
+    "timestamp": "2025-04-17T18:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-153",
+    "error_description": "Database connection timeout issue in qa.",
+    "error_type": "QA",
+    "status": "Closed",
+    "resolution_comment": "",
+    "timestamp": "2025-04-18T12:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-154",
+    "error_description": "Slow response time from development service.",
+    "error_type": "Development",
+    "status": "In Progress",
+    "resolution_comment": "Still being investigated.",
+    "timestamp": "2025-04-10T09:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-155",
+    "error_description": "Payment gateway failure in development environment.",
+    "error_type": "Development",
+    "status": "Closed",
+    "resolution_comment": "",
+    "timestamp": "2025-03-30T09:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-156",
+    "error_description": "Load balancer misconfiguration in qa setup.",
+    "error_type": "QA",
+    "status": "Closed",
+    "resolution_comment": "",
+    "timestamp": "2025-04-14T01:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-157",
+    "error_description": "Database connection timeout issue in staging.",
+    "error_type": "Staging",
+    "status": "Closed",
+    "resolution_comment": "",
+    "timestamp": "2025-04-03T20:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-158",
+    "error_description": "Session expiration issue in staging platform.",
+    "error_type": "Staging",
+    "status": "Closed",
+    "resolution_comment": "",
+    "timestamp": "2025-04-18T08:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-159",
+    "error_description": "Load balancer misconfiguration in development setup.",
+    "error_type": "Development",
+    "status": "In Progress",
+    "resolution_comment": "Still being investigated.",
+    "timestamp": "2025-04-25T14:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-160",
+    "error_description": "Null pointer exception during production deployment.",
+    "error_type": "Production",
+    "status": "Open",
+    "resolution_comment": "",
+    "timestamp": "2025-04-21T10:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-161",
+    "error_description": "Unexpected server restart in qa environment.",
+    "error_type": "QA",
+    "status": "Resolved",
+    "resolution_comment": "Configuration updated to correct the issue.",
+    "timestamp": "2025-04-14T04:30:00",
+    "rca_doc_url": "https://confluence.example.com/rca/JIRA-161",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-162",
+    "error_description": "Memory leak detected in production module.",
+    "error_type": "Production",
+    "status": "Closed",
+    "resolution_comment": "",
+    "timestamp": "2025-04-26T15:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-163",
+    "error_description": "Load balancer misconfiguration in staging setup.",
+    "error_type": "Staging",
+    "status": "Open",
+    "resolution_comment": "",
+    "timestamp": "2025-04-09T09:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-164",
+    "error_description": "Database connection timeout issue in staging.",
+    "error_type": "Staging",
+    "status": "Resolved",
+    "resolution_comment": "Issue was resolved by patching the deployment script.",
+    "timestamp": "2025-04-25T19:30:00",
+    "rca_doc_url": "https://confluence.example.com/rca/JIRA-164",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-165",
+    "error_description": "Slow response time from staging service.",
+    "error_type": "Staging",
+    "status": "Resolved",
+    "resolution_comment": "API credentials were rotated and updated.",
+    "timestamp": "2025-04-06T04:30:00",
+    "rca_doc_url": "https://confluence.example.com/rca/JIRA-165",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-166",
+    "error_description": "Database connection timeout issue in development.",
+    "error_type": "Development",
+    "status": "Open",
+    "resolution_comment": "",
+    "timestamp": "2025-04-16T02:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-167",
+    "error_description": "Memory leak detected in production module.",
+    "error_type": "Production",
+    "status": "Closed",
+    "resolution_comment": "",
+    "timestamp": "2025-04-19T03:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-168",
+    "error_description": "Unexpected server restart in production environment.",
+    "error_type": "Production",
+    "status": "Closed",
+    "resolution_comment": "",
+    "timestamp": "2025-04-04T11:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-169",
+    "error_description": "Slow response time from development service.",
+    "error_type": "Development",
+    "status": "Closed",
+    "resolution_comment": "",
+    "timestamp": "2025-04-23T05:30:00",
+    "rca_doc_url": "",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-170",
+    "error_description": "Authentication failure in production module.",
+    "error_type": "Production",
+    "status": "Resolved",
+    "resolution_comment": "API credentials were rotated and updated.",
+    "timestamp": "2025-04-12T00:30:00",
+    "rca_doc_url": "https://confluence.example.com/rca/JIRA-170",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-171",
+    "error_description": "Authentication failure in staging module.",
+    "error_type": "Staging",
+    "status": "Resolved",
+    "resolution_comment": "Configuration updated to correct the issue.",
+    "timestamp": "2025-04-20T22:30:00",
+    "rca_doc_url": "https://confluence.example.com/rca/JIRA-171",
+    "other_metadata": "Auto-generated sample issue."
+  },
+  {
+    "jira_id": "JIRA-172",
+    "error_description": "Load balancer misconfiguration in qa setup.",
+    "error_type": "QA",
+    "status": "Resolved",
+    "resolution_comment": "API credentials were rotated and updated.",
+    "timestamp": "2025-04-19T22:30:00",
+    "rca_doc_url": "https://confluence.example.com/rca/JIRA-172",
+    "other_metadata": "Auto-generated sample issue."
+  }
+]
