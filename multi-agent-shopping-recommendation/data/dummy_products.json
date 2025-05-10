@@ -1,0 +1,77 @@
+[
+    {
+        "title": "Lenovo Legion 5 Pro",
+        "brand": "Lenovo",
+        "price": 1399.99,
+        "rating": 4.5,
+        "num_reviews": 1023,
+        "features": [
+            "RTX 4060",
+            "16GB RAM",
+            "1TB SSD",
+            "16\" QHD Display"
+        ],
+        "url": "https://example.com/legion5pro",
+        "source": "Amazon"
+    },
+    {
+        "title": "Asus ROG Strix G16",
+        "brand": "Asus",
+        "price": 1249.99,
+        "rating": 4.3,
+        "num_reviews": 850,
+        "features": [
+            "RTX 4070",
+            "16GB RAM",
+            "512GB SSD",
+            "16\" FHD+ Display"
+        ],
+        "url": "https://example.com/rogstrixg16",
+        "source": "Flipkart"
+    },
+    {
+        "title": "HP Victus 15",
+        "brand": "HP",
+        "price": 949.99,
+        "rating": 4.2,
+        "num_reviews": 450,
+        "features": [
+            "RTX 3050",
+            "8GB RAM",
+            "512GB SSD",
+            "15.6\" FHD"
+        ],
+        "url": "https://example.com/hpvictus15",
+        "source": "Newegg"
+    },
+    {
+        "title": "Dell G15 Gaming",
+        "brand": "Dell",
+        "price": 1199.99,
+        "rating": 4.4,
+        "num_reviews": 670,
+        "features": [
+            "RTX 4060",
+            "16GB RAM",
+            "1TB SSD",
+            "15.6\" FHD 165Hz"
+        ],
+        "url": "https://example.com/dellg15",
+        "source": "Amazon"
+    },
+    {
+        "title": "MSI Katana 15",
+        "brand": "MSI",
+        "price": 999.99,
+        "rating": 4.1,
+        "num_reviews": 590,
+        "features": [
+            "RTX 4060",
+            "16GB RAM",
+            "512GB SSD",
+            "15.6\" FHD 144Hz"
+        ],
+        "url": "https://example.com/msikatana15",
+        "source": "Flipkart"
+    }
+]
